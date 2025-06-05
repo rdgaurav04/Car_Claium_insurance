@@ -21,6 +21,9 @@ To identify trends in car insurance claims, detect potential fraud, segment cust
 - `Project.twb`: Tableau workbook file
 - `Car claims for insurance.xlsx`: Dataset used for the analysis
 
+## 🔗 Links
+ -  Tableau Public Dashboard: *[https://public.tableau.com/app/profile/gaurav.kumar4299/viz/Project_17480616072290/Dashboard1]*
+
 
 ## ✅ Key Insights
 - Claim frequency is higher for older cars.
